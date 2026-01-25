@@ -1,0 +1,13 @@
+#hello {
+	font: bold;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+}
+
+#tip {
+	font: thin;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: center;
+}
